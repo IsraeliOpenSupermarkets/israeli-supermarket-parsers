@@ -1,6 +1,6 @@
 pandas>2.2.2
 pymongo==4.6.3
-il-supermarket-scraper>=1.0.11
+il-supermarket-scraper>=1.0.13
 tqdm>=4.66
 kafka-python>=2.0.2
 
